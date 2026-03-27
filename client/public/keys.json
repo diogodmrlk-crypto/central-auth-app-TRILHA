@@ -1,0 +1,52 @@
+{
+  "keys": {
+    "FERRAOBASIC1": {
+      "hwid": null,
+      "level": "BASIC",
+      "expiresAt": null,
+      "durationDays": 20,
+      "limit": 500,
+      "packages": 0
+    },
+    "FERRAOBASIC2": {
+      "hwid": null,
+      "level": "BASIC",
+      "expiresAt": null,
+      "durationDays": 20,
+      "limit": 500,
+      "packages": 0
+    },
+    "FERRAOBASIC3": {
+      "hwid": null,
+      "level": "BASIC",
+      "expiresAt": null,
+      "durationDays": 20,
+      "limit": 500,
+      "packages": 0
+    },
+    "FERRAOPRO1": {
+      "hwid": null,
+      "level": "PRO",
+      "expiresAt": null,
+      "durationDays": 30,
+      "limit": 1000,
+      "packages": 999
+    },
+    "FERRAOPRO2": {
+      "hwid": null,
+      "level": "PRO",
+      "expiresAt": null,
+      "durationDays": 30,
+      "limit": 1000,
+      "packages": 999
+    },
+    "FERRAODEV": {
+      "hwid": null,
+      "level": "DEV",
+      "expiresAt": null,
+      "durationDays": -1,
+      "limit": 5000,
+      "packages": 999
+    }
+  }
+}
